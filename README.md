@@ -1,11 +1,13 @@
-Subtle Pelican Theme
-====================
+Yet Another Svbtle-Inspired Pelican Theme
+=========================================
 
-[pelican-subtle](https://github.com/pR0Ps/pelican-svbhack) is a responsive theme for [Pelican](http://getpelican.com), it is my take on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
+[pelican-yasvbtle](https://github.com/Vincent-C/pelican-svbhack) is *yet another* responsive, svbtle-inspired theme for [Pelican](http://getpelican.com). It was forked from Carey Metcalfe's [pelican-subtle](https://github.com/pR0Ps/pelican-svbhack), which was in turn based on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
+
+I do not intend on making any significant cosmetic changes to pelican-subtle (it's almost exactly what I was looking for in a theme!), so changes made in this repository are unlikely to be of any interest to anyone aside from myself. Credit for this theme should go to Carey Metcalfe and Giulio Fidente.
 
 ## Demo
 
-You can see the theme in action on [my site](http://cmetcalfe.ca/).
+You can see the theme in action on [my site](http://www.vcheng.org/), Carey Metcalfe's [site](http://cmetcalfe.ca/) for pelican-subtle, and Giulio Fidente's [site](http://www.giuliofidente.com/) for pelican-svbhack.
 
 ## Features
 
