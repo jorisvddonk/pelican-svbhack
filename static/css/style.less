@@ -46,8 +46,6 @@ hr {
 }
 
 aside {
-  border-right: @border_color 1px solid;
-  
   div#user_meta {
     padding: 40px 20px 40px 20px;
     text-align: center;
@@ -232,9 +230,12 @@ main {
   aside {
     width: @side_size;
     height: 100%;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
+    bottom: 0;
+    border-right: @border_color 1px solid;
+    overflow-y: auto;
 
     h2 {
       margin: 10px 0 0 0;
