@@ -1,17 +1,17 @@
-Yet Another Svbtle-Inspired Pelican Theme
-=========================================
+Why Not, One More Svbtle-Inspired Pelican Theme (pelican-wnomsvbtle)
+====================================================================
 
-[pelican-yasvbtle](https://github.com/Vincent-C/pelican-svbhack) is *yet another* responsive, svbtle-inspired theme for [Pelican](http://getpelican.com). It was forked from Carey Metcalfe's [pelican-subtle](https://github.com/pR0Ps/pelican-svbhack), which was in turn based on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
+[pelican-wnomsvbtle](https://github.com/jorisvddonk/pelican-svbhack) is *one more* responsive, svbtle-inspired theme for [Pelican](http://getpelican.com) (because hey, why not!?). It was forked from Vincent Cheng's [pelican-yasvbtle](https://github.com/Vincent-C/pelican-svbhack), which was based on Carey Metcalfe's [pelican-subtle](https://github.com/pR0Ps/pelican-svbhack), which was in turn based on Giulio Fidente's [pelican-svbhack](https://github.com/giulivo/pelican-svbhack) theme.
 
-I do not intend on making any significant cosmetic changes to pelican-subtle (it's almost exactly what I was looking for in a theme!), so changes made in this repository are unlikely to be of any interest to anyone aside from myself. Credit for this theme should go to Carey Metcalfe and Giulio Fidente.
+This repo is primarily used for [my own site](http://mooses.nl/) (hence the branch name, *mooses.nl*), though other people may find some use here. Credit for this theme should go to Vincent Cheng, Carey Metcalfe and Giulio Fidente.
 
 ## Demo
 
-You can see the theme in action on [my site](http://www.vcheng.org/), Carey Metcalfe's [site](http://cmetcalfe.ca/) for pelican-subtle, and Giulio Fidente's [site](http://www.giuliofidente.com/) for pelican-svbhack.
+You can see the theme in action on [my site](http://mooses.nl/), Vincent Cheng's site for [pelican-yasvbtle](http://www.vcheng.org/), Carey Metcalfe's [site](http://cmetcalfe.ca/) for pelican-subtle, and Giulio Fidente's [site](http://www.giuliofidente.com/) for pelican-svbhack.
 
 ## Features
 
-- Clean, responsive design
+- Clean, responsive design with only two panes (sidebar and main content pane)
 - Profile image and tagline
 - Syntax highlighting for pre blocks
 - Google Analytics (new Unified Analytics)
@@ -21,7 +21,7 @@ You can see the theme in action on [my site](http://www.vcheng.org/), Carey Metc
 
 ## Installing
 
-Clone the [repository](https://github.com/pR0Ps/pelican-svbhack), edit your `pelicanconf.py` and modify the `THEME` variable to point to the downloaded theme location.
+Clone the [repository](https://github.com/jorisvddonk/pelican-svbhack), edit your `pelicanconf.py` and modify the `THEME` variable to point to the downloaded theme location.
 
 ## pelicanconf.py
 
@@ -44,9 +44,14 @@ This theme supports a number of custom variables:
 
 ## Authors
 
+
 pelican-subtle is authored by [pR0Ps](https://github.com/pR0Ps).
 
 pelican-svbhack is authored by [Giulio Fidente](https://github.com/giulivo).
+
+pelican-yasvbtle is authored by [Vincent Cheng](https://github.com/Vincent-C).
+
+pelican-wnomsvbtle is authored by [Joris van de Donk](https://github.com/jorisvddonk).
 
 ## Licence
 
